@@ -1,2 +1,3 @@
 1. Decide which business to order from
+1a. Order from other pizza place if wait is too long
 2. Decide which type of pizza to order
